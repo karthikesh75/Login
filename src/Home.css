@@ -28,6 +28,7 @@ body {
         height: 100vh;
         align-items: stretch;
         justify-content: center;
+        flex-grow: 10;
     }
     
     .login-left {
